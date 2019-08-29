@@ -1,0 +1,7 @@
+G:\projects\C# Console\ConsoleLib\ConsoleGameLibrary\obj\Debug\netstandard2.0\ConsoleGameLibrary.csproj.CoreCompileInputs.cache
+G:\projects\C# Console\ConsoleLib\ConsoleGameLibrary\obj\Debug\netstandard2.0\ConsoleGameLibrary.AssemblyInfoInputs.cache
+G:\projects\C# Console\ConsoleLib\ConsoleGameLibrary\bin\Debug\netstandard2.0\ConsoleGameLibrary.deps.json
+G:\projects\C# Console\ConsoleLib\ConsoleGameLibrary\bin\Debug\netstandard2.0\ConsoleGameLibrary.dll
+G:\projects\C# Console\ConsoleLib\ConsoleGameLibrary\bin\Debug\netstandard2.0\ConsoleGameLibrary.pdb
+G:\projects\C# Console\ConsoleLib\ConsoleGameLibrary\obj\Debug\netstandard2.0\ConsoleGameLibrary.dll
+G:\projects\C# Console\ConsoleLib\ConsoleGameLibrary\obj\Debug\netstandard2.0\ConsoleGameLibrary.pdb

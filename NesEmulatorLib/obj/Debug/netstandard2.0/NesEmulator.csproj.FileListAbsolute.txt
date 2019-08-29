@@ -1,0 +1,17 @@
+G:\projects\C# Console\NesEmulator\bin\Debug\netstandard2.0\NesEmulator.deps.json
+G:\projects\C# Console\NesEmulator\bin\Debug\netstandard2.0\NesEmulator.dll
+G:\projects\C# Console\NesEmulator\bin\Debug\netstandard2.0\NesEmulator.pdb
+G:\projects\C# Console\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.csproj.CoreCompileInputs.cache
+G:\projects\C# Console\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.AssemblyInfoInputs.cache
+G:\projects\C# Console\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.AssemblyInfo.cs
+G:\projects\C# Console\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.dll
+G:\projects\C# Console\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.pdb
+G:\projects\C# Console\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.csprojAssemblyReference.cache
+G:\projects\C# Console\ConsoleLib\NesEmulator\bin\Debug\netstandard2.0\NesEmulator.deps.json
+G:\projects\C# Console\ConsoleLib\NesEmulator\bin\Debug\netstandard2.0\NesEmulator.dll
+G:\projects\C# Console\ConsoleLib\NesEmulator\bin\Debug\netstandard2.0\NesEmulator.pdb
+G:\projects\C# Console\ConsoleLib\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.csproj.CoreCompileInputs.cache
+G:\projects\C# Console\ConsoleLib\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.AssemblyInfoInputs.cache
+G:\projects\C# Console\ConsoleLib\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.AssemblyInfo.cs
+G:\projects\C# Console\ConsoleLib\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.dll
+G:\projects\C# Console\ConsoleLib\NesEmulator\obj\Debug\netstandard2.0\NesEmulator.pdb

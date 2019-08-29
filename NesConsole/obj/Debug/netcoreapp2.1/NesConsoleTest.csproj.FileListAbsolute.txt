@@ -1,0 +1,16 @@
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\bin\Debug\netcoreapp2.1\NesConsoleTest.deps.json
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\bin\Debug\netcoreapp2.1\NesConsoleTest.runtimeconfig.json
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\bin\Debug\netcoreapp2.1\NesConsoleTest.runtimeconfig.dev.json
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\bin\Debug\netcoreapp2.1\NesConsoleTest.dll
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\bin\Debug\netcoreapp2.1\NesConsoleTest.pdb
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\bin\Debug\netcoreapp2.1\ConsoleGameLibrary.dll
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\bin\Debug\netcoreapp2.1\NesEmulator.dll
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\bin\Debug\netcoreapp2.1\ConsoleGameLibrary.pdb
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\bin\Debug\netcoreapp2.1\NesEmulator.pdb
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\obj\Debug\netcoreapp2.1\NesConsoleTest.csprojAssemblyReference.cache
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\obj\Debug\netcoreapp2.1\NesConsoleTest.csproj.CoreCompileInputs.cache
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\obj\Debug\netcoreapp2.1\NesConsoleTest.AssemblyInfoInputs.cache
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\obj\Debug\netcoreapp2.1\NesConsoleTest.AssemblyInfo.cs
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\obj\Debug\netcoreapp2.1\NesConsoleTest.csproj.CopyComplete
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\obj\Debug\netcoreapp2.1\NesConsoleTest.dll
+G:\projects\C# Console\ConsoleLib\NesConsoleTest\obj\Debug\netcoreapp2.1\NesConsoleTest.pdb

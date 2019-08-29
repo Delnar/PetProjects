@@ -1,0 +1,15 @@
+G:\projects\C# Game Library\GameLibraryLib\bin\Debug\netstandard2.0\GameLibraryLib.deps.json
+G:\projects\C# Game Library\GameLibraryLib\bin\Debug\netstandard2.0\GameLibraryLib.dll
+G:\projects\C# Game Library\GameLibraryLib\bin\Debug\netstandard2.0\GameLibraryLib.pdb
+G:\projects\C# Game Library\GameLibraryLib\obj\Debug\netstandard2.0\GameLibraryLib.csproj.CoreCompileInputs.cache
+G:\projects\C# Game Library\GameLibraryLib\obj\Debug\netstandard2.0\GameLibraryLib.AssemblyInfoInputs.cache
+G:\projects\C# Game Library\GameLibraryLib\obj\Debug\netstandard2.0\GameLibraryLib.dll
+G:\projects\C# Game Library\GameLibraryLib\obj\Debug\netstandard2.0\GameLibraryLib.pdb
+G:\projects\C# Game Library\GameLibraryLib\obj\Debug\netstandard2.0\GameLibraryLib.csprojAssemblyReference.cache
+G:\projects\C# Game Library\PetProjects\GameLibraryLib\obj\Debug\netstandard2.0\GameLibraryLib.csproj.CoreCompileInputs.cache
+G:\projects\C# Game Library\PetProjects\GameLibraryLib\obj\Debug\netstandard2.0\GameLibraryLib.AssemblyInfoInputs.cache
+G:\projects\C# Game Library\PetProjects\GameLibraryLib\obj\Debug\netstandard2.0\GameLibraryLib.dll
+G:\projects\C# Game Library\PetProjects\GameLibraryLib\obj\Debug\netstandard2.0\GameLibraryLib.pdb
+G:\projects\C# Game Library\PetProjects\GameLibraryLib\bin\Debug\netstandard2.0\GameLibraryLib.deps.json
+G:\projects\C# Game Library\PetProjects\GameLibraryLib\bin\Debug\netstandard2.0\GameLibraryLib.dll
+G:\projects\C# Game Library\PetProjects\GameLibraryLib\bin\Debug\netstandard2.0\GameLibraryLib.pdb

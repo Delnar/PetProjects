@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\projects\\C# Game Library\\PetProjects\\GameLibrary\\GameLibraryTester.csproj": {}
+  },
+  "projects": {
+    "G:\\projects\\C# Game Library\\PetProjects\\ConsoleGameLibrary\\ConsoleGameLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\projects\\C# Game Library\\PetProjects\\ConsoleGameLibrary\\ConsoleGameLibrary.csproj",
+        "projectName": "ConsoleGameLibrary",
+        "projectPath": "G:\\projects\\C# Game Library\\PetProjects\\ConsoleGameLibrary\\ConsoleGameLibrary.csproj",
+        "packagesPath": "C:\\Users\\Joshua\\.nuget\\packages\\",
+        "outputPath": "G:\\projects\\C# Game Library\\PetProjects\\ConsoleGameLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joshua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "G:\\projects\\C# Game Library\\PetProjects\\GameLibraryLib\\GameLibraryLib.csproj": {
+                "projectPath": "G:\\projects\\C# Game Library\\PetProjects\\GameLibraryLib\\GameLibraryLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "G:\\projects\\C# Game Library\\PetProjects\\GameLibraryLib\\GameLibraryLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\projects\\C# Game Library\\PetProjects\\GameLibraryLib\\GameLibraryLib.csproj",
+        "projectName": "GameLibraryLib",
+        "projectPath": "G:\\projects\\C# Game Library\\PetProjects\\GameLibraryLib\\GameLibraryLib.csproj",
+        "packagesPath": "C:\\Users\\Joshua\\.nuget\\packages\\",
+        "outputPath": "G:\\projects\\C# Game Library\\PetProjects\\GameLibraryLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joshua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "G:\\projects\\C# Game Library\\PetProjects\\GameLibrary\\GameLibraryTester.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\projects\\C# Game Library\\PetProjects\\GameLibrary\\GameLibraryTester.csproj",
+        "projectName": "GameLibraryTester",
+        "projectPath": "G:\\projects\\C# Game Library\\PetProjects\\GameLibrary\\GameLibraryTester.csproj",
+        "packagesPath": "C:\\Users\\Joshua\\.nuget\\packages\\",
+        "outputPath": "G:\\projects\\C# Game Library\\PetProjects\\GameLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joshua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "G:\\projects\\C# Game Library\\PetProjects\\ConsoleGameLibrary\\ConsoleGameLibrary.csproj": {
+                "projectPath": "G:\\projects\\C# Game Library\\PetProjects\\ConsoleGameLibrary\\ConsoleGameLibrary.csproj"
+              },
+              "G:\\projects\\C# Game Library\\PetProjects\\GameLibraryLib\\GameLibraryLib.csproj": {
+                "projectPath": "G:\\projects\\C# Game Library\\PetProjects\\GameLibraryLib\\GameLibraryLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
